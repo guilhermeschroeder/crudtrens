@@ -14,6 +14,8 @@ require 'conexao.php';
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <div class="titulo">
+        <h1></h1>
+    </div>
 </body>
 </html>
